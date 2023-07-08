@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554515620700",
+    "project_id": "yatri-backend",
+    "storage_bucket": "yatri-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554515620700:android:78dc38233d078885985799",
+        "android_client_info": {
+          "package_name": "com.travelapp.yatri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInoVRQfQxMHtNzFvMwvcRvvottEFFcD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554515620700:android:34937a1455020299985799",
+        "android_client_info": {
+          "package_name": "com.yatri.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInoVRQfQxMHtNzFvMwvcRvvottEFFcD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
